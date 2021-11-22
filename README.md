@@ -5,7 +5,7 @@ My name is Victor Gabriel Alcantara. I'm doing my master degree in Sociology and
 - 🔭 I’m currently working on my research about education inequalities in Brazil with public data.
 
 - 🌱 I’m currently learning:
-- Programming languages: R, SQL, HTML and CSS.
+  - R, SQL, HTML and CSS.
 
 - 📫 How to reach me: 
 - [My LinkedIn](https://www.linkedin.com/in/victor-gabriel-alcantara-427964163/)
