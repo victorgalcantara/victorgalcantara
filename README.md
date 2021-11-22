@@ -6,7 +6,7 @@ My name is Victor Gabriel Alcantara. I'm doing my master degree in Sociology and
 
 - 🌱 I’m currently learning:
   - R, SQL, HTML and CSS.
-
+![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
 - 📫 How to reach me: 
 - [My LinkedIn](https://www.linkedin.com/in/victor-gabriel-alcantara-427964163/)
 - E-mail: victoralcantara.csocial@gmail.com
