@@ -1,4 +1,4 @@
-  <h2>Hi there! :smiley:</h2>
+  <h2>Hi there!</h2>
 
 My name is Victor Gabriel Alcantara and I live in São Paulo - Brazil. I'm a social scientist enthusiastic of methods and Computational Social Sciences. I'm Mr. in Sociology and Anthropology at [PPGSA/UFRJ](http://ppgsa.ifcs.ufrj.br/) and PhD student in Sociology at University of São Paulo [PPGS/USP](https://ppgsociologia.fflch.usp.br/). I'm studing social and data sciences with some programming languages like R, Python, JavaScript and so on. You can find some of my works on my [curriculum](http://lattes.cnpq.br/6579920249803712).
 
