@@ -1,11 +1,11 @@
   <h2>Hi there!</h2>
 
-My name is Victor Gabriel Alcantara and I live in São Paulo - Brazil. I'm a social scientist enthusiastic of methods and Computational Social Sciences. I'm M.A. in Sociology and Anthropology at [PPGSA/UFRJ](http://ppgsa.ifcs.ufrj.br/) and PhD student in Sociology at University of São Paulo [PPGS/USP](https://ppgsociologia.fflch.usp.br/). I'm studing social and data sciences with some programming languages like R, Python, JavaScript and so on. You can find some of my works on my [curriculum](http://lattes.cnpq.br/6579920249803712).
+My name is Victor Gabriel Alcantara and I live in São Paulo - Brazil. I'm a social scientist enthusiastic of methods and Computational Social Sciences. I'm M.A. in Sociology and Anthropology at [PPGSA/UFRJ](http://ppgsa.ifcs.ufrj.br/) and PhD student in Sociology at University of São Paulo [PPGS/USP](https://ppgsociologia.fflch.usp.br/). I'm studing social and data sciences with some programming languages like R and Python. You can find some of my works on my [curriculum](http://lattes.cnpq.br/6579920249803712).
 
-- 🔭 I’m currently working on my research about education inequalities in Brazil to understand how and why students construct behaviors and dispositions for or against "student work", thinking about success and failure in basic education.
+- 🔭 I’m currently working on my research about education inequalities in Brazil to understand school effects on access to higher education, exploring social stratification of schools.
 
 - 🌱 I’m currently learning:
-  - `R`,`Python`, `SQL`, `JavaScript`, `HTML` and `CSS`.
+  - `R`,`Python` and `SQL`.
 
 <h2>Tools</h2>
   <div>
